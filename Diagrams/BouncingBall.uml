@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>BouncingBall</OriginalElement>
+  <nodes>
+    <node x="445.53125" y="158.0">java.beans.JavaBean</node>
+    <node x="30.28125" y="158.0">javax.swing.TransferHandler.HasGetTransferHandler</node>
+    <node x="25.5" y="316.0">java.lang.Runnable</node>
+    <node x="56.78125" y="0.0">java.awt.image.ImageObserver</node>
+    <node x="0.0" y="237.0">java.lang.FunctionalInterface</node>
+    <node x="220.28125" y="158.0">java.awt.Container</node>
+    <node x="291.0" y="237.0">javax.swing.JComponent</node>
+    <node x="204.78125" y="0.0">java.awt.MenuContainer</node>
+    <node x="169.0" y="237.0">javax.accessibility.Accessible</node>
+    <node x="214.78125" y="79.0">java.awt.Component</node>
+    <node x="354.78125" y="0.0">java.io.Serializable</node>
+    <node x="157.65625" y="395.0">BouncingBall</node>
+    <node x="0.0" y="469.0">BouncingBallMain</node>
+    <node x="311.90625" y="316.0">javax.swing.JPanel</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="javax.swing.JComponent" target="java.awt.Container">
+      <point x="-14.25" y="-14.5" />
+      <point x="333.75" y="207.0" />
+      <point x="269.78125" y="207.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JPanel" target="javax.accessibility.Accessible">
+      <point x="-27.0" y="-14.5" />
+      <point x="325.40625" y="291.0" />
+      <point x="220.0" y="291.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.awt.Component" target="java.awt.image.ImageObserver">
+      <point x="-36.66666666666666" y="-14.5" />
+      <point x="233.11458333333334" y="54.0" />
+      <point x="120.78125" y="54.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JPanel" target="java.beans.JavaBean">
+      <point x="27.0" y="-14.5" />
+      <point x="379.40625" y="291.0" />
+      <point x="518.28125" y="291.0" />
+      <point x="24.25" y="14.5" />
+    </edge>
+    <edge source="java.awt.Component" target="java.io.Serializable">
+      <point x="36.66666666666666" y="-14.5" />
+      <point x="306.44791666666663" y="54.0" />
+      <point x="381.53125" y="54.0" />
+      <point x="-26.75" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JComponent" target="java.beans.JavaBean">
+      <point x="42.75" y="-14.5" />
+      <point x="390.75" y="217.0" />
+      <point x="469.78125" y="217.0" />
+      <point x="-24.25" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JPanel" target="javax.swing.JComponent">
+      <point x="0.0" y="-14.5" />
+      <point x="352.40625" y="291.0" />
+      <point x="348.0" y="291.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="BouncingBall" target="javax.swing.JPanel">
+      <point x="29.0" y="-14.5" />
+      <point x="244.65625" y="370.0" />
+      <point x="352.40625" y="370.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="BouncingBall" target="java.lang.Runnable">
+      <point x="-29.0" y="-14.5" />
+      <point x="186.65625" y="370.0" />
+      <point x="74.5" y="370.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JComponent" target="javax.swing.TransferHandler.HasGetTransferHandler">
+      <point x="-42.75" y="-14.5" />
+      <point x="305.25" y="217.0" />
+      <point x="115.28125" y="217.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.awt.Component" target="java.awt.MenuContainer">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.awt.Container" target="java.awt.Component">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JComponent" target="java.io.Serializable">
+      <point x="14.25" y="-14.5" />
+      <point x="362.25" y="207.0" />
+      <point x="435.03125" y="207.0" />
+      <point x="26.75" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="271.5" y="249.0" />
+  <SelectedNodes>
+    <node>BouncingBall</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
